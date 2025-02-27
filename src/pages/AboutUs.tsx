@@ -1,5 +1,5 @@
-import React from 'react';
-import { Heart, Mail, Phone, MapPin, GithubIcon } from "lucide-react";
+
+import {Mail, MapPin, GithubIcon } from "lucide-react";
 import DevMind from "./devmind.jpeg";
 import { useNavigate } from 'react-router-dom';
 

@@ -1,1 +1,0 @@
-# devminds-ai.github.io
